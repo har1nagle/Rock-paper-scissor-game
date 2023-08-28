@@ -2,6 +2,12 @@
 
 * this is a mini game project
 
+## demo link
+[Click me!](https://har1nagle.github.io/Rock-paper-scissor-game/)
+
+# Screenshots
+![Screenshot (397)](https://github.com/har1nagle/Rock-paper-scissor-game/assets/123434008/b89e2261-6128-4a5b-869c-eb6dfb736394)
+
 # Feature
 
 * in This available Auto play.
